@@ -14,13 +14,13 @@ class KrakenScalpHF(IStrategy):
     startup_candle_count = 50
 
     minimal_roi = {
-        "0": 0.01
+        "0": 0.015
     }
 
-    stoploss = -0.0015
+    stoploss = -0.0012
     trailing_stop = False
 
-    use_exit_signal = False
+    use_exit_signal = True
     exit_profit_only = True
     ignore_roi_if_entry_signal = True
 
