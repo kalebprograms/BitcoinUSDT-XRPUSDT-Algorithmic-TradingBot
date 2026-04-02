@@ -256,7 +256,7 @@ debugging and iteration
 reproducible local execution
 clean portfolio presentation on GitHub
 
-## The repository demonstrates the ability to build and maintain an end-to-end technical project involving Python, configuration files, command-line tooling, and data-driven testing.
+The repository demonstrates the ability to build and maintain an end-to-end technical project involving Python, configuration files, command-line tooling, and data-driven testing.
 
 
 ## Bitcoin/XRP Algorithmic Trading Bot
